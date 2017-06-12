@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/ryanlindev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ryanlin.com
+  * I am ryanlindev (https://keybase.io/ryanlindev) on keybase.
+  * I have a public key ASCi0ZK5Ct-Qpw38F_5rkZIPgyLAiopitY7Fup0r1oEk7Ao
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120a2d192b90adf90a70dfc17fe6b91920f8322c08a8a62b58ec5ba9d2bd68124ec0a",
+            "host": "keybase.io",
+            "kid": "0120a2d192b90adf90a70dfc17fe6b91920f8322c08a8a62b58ec5ba9d2bd68124ec0a",
+            "uid": "0856256714bc0ec4ae824d4c3f8a7119",
+            "username": "ryanlindev"
+        },
+        "service": {
+            "hostname": "ryanlin.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.23"
+    },
+    "ctime": 1497290063,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1497289994,
+        "hash": "6847d18afc7d20ad1c7e60d0ebae23addf77cfc1410ee40135e3171a136183014e73a6b490505174b63ff0cf4c05edfba82f13f688dcfd425d883076dcff0ef5",
+        "seqno": 1164052
+    },
+    "prev": "e7b7fd985079b1926d472f2a7351c9ed98c9730fa7329dd4a4103aaf391f4934",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgotGSuQrfkKcN/Bf+a5GSD4MiwIqKYrWOxbqdK9aBJOwKp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYTJkMTkyYjkwYWRmOTBhNzBkZmMxN2ZlNmI5MTkyMGY4MzIyYzA4YThhNjJiNThlYzViYTlkMmJkNjgxMjRlYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYTJkMTkyYjkwYWRmOTBhNzBkZmMxN2ZlNmI5MTkyMGY4MzIyYzA4YThhNjJiNThlYzViYTlkMmJkNjgxMjRlYzBhIiwidWlkIjoiMDg1NjI1NjcxNGJjMGVjNGFlODI0ZDRjM2Y4YTcxMTkiLCJ1c2VybmFtZSI6InJ5YW5saW5kZXYifSwic2VydmljZSI6eyJob3N0bmFtZSI6InJ5YW5saW4uY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMyJ9LCJjdGltZSI6MTQ5NzI5MDA2MywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDk3Mjg5OTk0LCJoYXNoIjoiNjg0N2QxOGFmYzdkMjBhZDFjN2U2MGQwZWJhZTIzYWRkZjc3Y2ZjMTQxMGVlNDAxMzVlMzE3MWExMzYxODMwMTRlNzNhNmI0OTA1MDUxNzRiNjNmZjBjZjRjMDVlZGZiYTgyZjEzZjY4OGRjZmQ0MjVkODgzMDc2ZGNmZjBlZjUiLCJzZXFubyI6MTE2NDA1Mn0sInByZXYiOiJlN2I3ZmQ5ODUwNzliMTkyNmQ0NzJmMmE3MzUxYzllZDk4Yzk3MzBmYTczMjlkZDRhNDEwM2FhZjM5MWY0OTM0Iiwic2Vxbm8iOjEyLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQCbhucL/kdFDtQ7Cfw1x2Ie/DUgQy8/zPKgUSLf75JIJ/Bz4ldE314zh8BzG7/Xuu22b2r2BgtyUd77B4Eu1Rwyoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBMtbBJL30eTiFmqpaMPhxwFPxMpGBgpS5zKp1v+vVcBqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ryanlindev
+
+==================================================================
